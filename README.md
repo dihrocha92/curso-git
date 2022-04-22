@@ -1,2 +1,2 @@
 # curso-git
-repositório do curso de git
+Repositório do curso de git da Diana
